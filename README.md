@@ -19,7 +19,6 @@ Backend Engineering · Machine Learning · MLOps
 ```python
 mohammed = {
     "degree":    "B.Sc. Computer Science @ LUH",
-    "semester":  4,
     "gpa":       1.2,
     "focus":     ["Machine Learning", "Backend Engineering", "MLOps"],
     "languages": ["Python", "Java", "JavaScript", "C", "SQL"],
