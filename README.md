@@ -2,7 +2,7 @@
 
 # Mohammed Al-Shami
 
-**CS Student @ Leibniz Universität Hannover · GPA 1.2 (Top 5%)**
+**CS Student @ Leibniz Universität Hannover**
 
 Backend Engineering · Machine Learning · MLOps
 
@@ -19,7 +19,6 @@ Backend Engineering · Machine Learning · MLOps
 ```python
 mohammed = {
     "degree":    "B.Sc. Computer Science @ LUH",
-    "gpa":       1.2,
     "focus":     ["Machine Learning", "Backend Engineering", "MLOps"],
     "languages": ["Python", "Java", "JavaScript", "C", "SQL"],
     "projects":  {
